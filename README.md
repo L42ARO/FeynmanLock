@@ -7,9 +7,9 @@ Initially developed to be an RFID lock, the Feynman Lock eventually developed in
 <h3> Hardware used <h3>
 <ul>
   <li>Arduino Nano</li>
-  <li>MG996R Servo Motor <li>
+  <li>MG996R Servo Motor </li>
   <li>FPM11A Fingerprint sensor</li>
-  <li>RC522 RFID scanner <li>
+  <li>RC522 RFID scanner </li>
 </ul>
 
 <h4>Mechanical Design Highlights</h4>
