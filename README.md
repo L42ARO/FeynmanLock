@@ -2,7 +2,8 @@
 Initially developed to be an RFID lock, the Feynman Lock eventually developed into a biometric lock that can be placed in a USF college dorm room.
 <br>
 <b>3D Models</b> folder contains the models used and 3D Printed for the lock
-<b>FeynmanLock_Code</b> folder contains the code running behind our biometric lock
+<br>
+<b>FeynmanLock_Code</b> folder contains the code running behind our biometric lock, uses platformIO
 
 <h2> Hardware used </h2>
 <ul>
