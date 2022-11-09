@@ -4,7 +4,7 @@ Initially developed to be an RFID lock, the Feynman Lock eventually developed in
 <b>3D Models</b> folder contains the models used and 3D Printed for the lock
 <b>FeynmanLock_Code</b> folder contains the code running behind our biometric lock
 
-<h3> Hardware used <h3>
+<h2> Hardware used <h2>
 <ul>
   <li>Arduino Nano</li>
   <li>MG996R Servo Motor </li>
@@ -12,5 +12,5 @@ Initially developed to be an RFID lock, the Feynman Lock eventually developed in
   <li>RC522 RFID scanner </li>
 </ul>
 
-<h4>Mechanical Design Highlights</h4>
+<h2>Mechanical Design Highlights</h2>
 The point of connection between the servo motor and the actual door lock allows for a 60 degree angle of free movement, meaning that if the power of the building shuts off, the biometric lock won't prevent an user from regularly using a key to unlock the door.
